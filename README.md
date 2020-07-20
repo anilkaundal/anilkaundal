@@ -10,7 +10,7 @@
 - 😄 Pronouns: "He" | "Him"
 - 😊 Happy Coding! 
 
-![Anil Kaundal Github Stats](https://github-readme-stats.vercel.app/api?username=anilkaundal&show_icons=true&title_color=e8505b&icon_color=e8505b&text_color=e8505b&bg_color=333)
+![Anil Kaundal Github Stats](https://github-readme-stats.vercel.app/api?username=anilkaundal&show_icons=true&title_color=e8505b&icon_color=e8505b&text_color=e8505b&bg_color=fff)
 
 <a href="https://www.linkedin.com/in/anil-kaundal-736805150/">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
