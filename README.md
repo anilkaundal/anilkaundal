@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React(Web framework).
 - 👯 I’m looking to collaborate on Open-Source projects.
 - 💬 Ask me about Web Frameworks for Python.
-- 📫 How to reach me: Please email via anilkaundal1999@gmail.com to reach me. 
+- 📫 How to reach me: Please use this [E-mail ID](anilkaundal1999@gmail.com) to reach me. 
 - 👨‍💻 Challenge: I am doing the #30DaysOfCode challenge on HackerRank.
 - 😄 Pronouns: "He" | "Him"
 - 😊 Happy Coding! 
