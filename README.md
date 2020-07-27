@@ -1,6 +1,6 @@
 # Hi, I'm Anil! ![](https://raw.githubusercontent.com/anilkaundal/anilkaundal/master/assets/hand-peace.gif)
 <img align='right' src="https://raw.githubusercontent.com/anilkaundal/anilkaundal/master/assets/profile.png" width="180">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilkaundal" alt="shubhamhackz" /> </p>
+
 - 🔭 I’m currently working on Vanilla JavaScript.
 - 🌱 I’m currently learning React(Web framework).
 - 👯 I’m looking to collaborate on Open-Source projects.
