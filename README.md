@@ -6,11 +6,10 @@
 - 👯 I’m looking to collaborate on Open-Source projects.
 - 💬 Ask me about Web Frameworks for Python.
 - 📫 How to reach me: Please use this [E-mail ID](mailto:anilkaundal1999@gmail.com) to reach me. 
-- 👨‍💻 Challenge: I am doing the #30DaysOfCode challenge on HackerRank.
 - 😄 Pronouns: "He" | "Him"
 - 😊 Happy Coding! 
 
-![Anil Kaundal Github Stats](https://github-readme-stats.vercel.app/api?username=anilkaundal&show_icons=true&title_color=e8505b&icon_color=e8505b&text_color=e8505b&bg_color=fff)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilkaundal&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github stats" title="Github Stats">
 
 <a href="https://www.linkedin.com/in/anil-kaundal-736805150/">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
