@@ -33,11 +33,11 @@
   <a href="https://www.hackerrank.com/injuriousanswer">
    <img alt=" HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
-  <a href="https://codepen.io/anilkaundal">
-   <img alt="Codepen" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-  </a>
   <a href="https://dev.to/anilkaundal">
    <img alt="DEV" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  </a>
+  <a href="https://codepen.io/anilkaundal">
+   <img alt="Codepen" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
   </a>
   <a href="https://medium.com/@injuriousanswer">
    <img alt="Medium" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
