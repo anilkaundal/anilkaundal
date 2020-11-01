@@ -34,7 +34,7 @@
    <img alt=" HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
   <a href="https://dev.to/anilkaundal">
-   <img alt="DEV" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anil Kaundal's DEV Profile" height="30" width="30">
   </a>
   <a href="https://codepen.io/anilkaundal">
    <img alt="Codepen" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
