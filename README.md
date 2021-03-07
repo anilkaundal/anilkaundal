@@ -28,18 +28,18 @@
 <h3 align="center"><samp>Find Me at :mag:</samp></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/anil-kaundal-736805150/">
-    <img alt="Linkedin" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Linkedin" title="Linkedin" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.hackerrank.com/injuriousanswer">
-   <img alt=" HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+   <img alt="HackerRank" title="HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
   <a href="https://dev.to/anilkaundal">
-   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anil Kaundal's DEV Profile" height="30" width="30">
+   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anil Kaundal's DEV Profile" title="DEV Profile" height="30" width="30">
   </a>
   <a href="https://codepen.io/anilkaundal">
-   <img alt="Codepen" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+   <img alt="Codepen" title="Codepen" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
   </a>
   <a href="https://medium.com/@injuriousanswer">
-   <img alt="Medium" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+   <img alt="Medium" title="Medium" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
 </p>
