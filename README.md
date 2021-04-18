@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/anil-kaundal-736805150/">
     <img alt="Linkedin" title="Linkedin" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.hackerrank.com/injuriousanswer">
+  <a href="https://www.hackerrank.com/anilkaundal?hr_r=1">
    <img alt="HackerRank" title="HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
   <a href="https://dev.to/anilkaundal">
