@@ -10,36 +10,32 @@
    <img src="https://cdn.svgporn.com/logos/c.svg" title="C" width="35" />
    <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" title="C++" width="35" />
    <img src="https://cdn.svgporn.com/logos/python.svg" title="Python" width="35" />
-   <img src="https://cdn.svgporn.com/logos/html-5.svg" title="HTML" width="30" />
-   <img src="https://cdn.svgporn.com/logos/css-3.svg" title="CSS" width="30" />
-   <img src="https://img.icons8.com/color/60/000000/bootstrap.png" title="Bootstrap" width="41" />
-   <img src="https://cdn.svgporn.com/logos/javascript.svg" title="JavaScript" width="35" />
-   <img src="https://cdn.svgporn.com/logos/nodejs.svg" title="NodeJS" width="45"/>
-   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="ExpressJS" width="35"/>
-   <img src="https://cdn.svgporn.com/logos/react.svg" title="React" width="35"/>
-   <img src="https://img.icons8.com/color/60/000000/mongodb.png" title="MongoDB" width="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" width="45" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" title="Django" width="45" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby" width="35" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" width="35" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" width="35" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="JavaScript" width="35" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJS" width="35"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="35"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="35" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="35" />
 </p>
 
 <h3 align="center"><samp>Stats :chart_with_upwards_trend:</samp></h3>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilkaundal&&show_icons=true&theme=dark" alt="Github stats" title="Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilkaundal&hide=issues&count_private=true&show_icons=true&theme=calm" alt="Github stats" title="Github Stats">
+   <br />
+   <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkaundal&layout=compact&theme=calm" alt="Top Languages" title="Top Languages">
 </p>
 
 <h3 align="center"><samp>Find Me at :mag:</samp></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/anil-kaundal-736805150/">
-    <img alt="Linkedin" title="Linkedin" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.hackerrank.com/anilkaundal?hr_r=1">
-   <img alt="HackerRank" title="HackerRank" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-  </a>
-  <a href="https://dev.to/anilkaundal">
-   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anil Kaundal's DEV Profile" title="DEV Profile" height="30" width="30">
+    <img alt="Linkedin" title="Linkedin" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
   </a>
   <a href="https://codepen.io/anilkaundal">
-   <img alt="Codepen" title="Codepen" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-  </a>
-  <a href="https://medium.com/@injuriousanswer">
-   <img alt="Medium" title="Medium" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+   <img alt="Codepen" title="Codepen" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
   </a>
 </p>
