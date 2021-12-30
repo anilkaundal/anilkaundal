@@ -32,7 +32,7 @@
 
 <h3 align="center"><samp>Find Me at :mag:</samp></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/anil-kaundal-736805150/">
+  <a href="https://www.linkedin.com/in/anil-k-736805150/">
     <img alt="Linkedin" title="Linkedin" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
   </a>
   <a href="https://codepen.io/anilkaundal">
