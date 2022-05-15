@@ -11,7 +11,7 @@
    <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" title="C++" width="35" />
    <img src="https://cdn.svgporn.com/logos/python.svg" title="Python" width="35" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" width="45" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" title="Django" width="45" />
+   <img src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/django.svg" title="Django" width="45" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby" width="35" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" width="35" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" width="35" />
