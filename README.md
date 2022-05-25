@@ -1,9 +1,11 @@
 <h2 align="center"><samp>Hey, Geeks! :wave:</samp></h2>
 
-<p align="center"> 
-   <samp> 
-      Just a Computer Science student who is keen about building interesting and useful stuff. Apart from development, my interest draws me towards weight lifting :weight_lifting:, photography :camera: and music :headphones:.
-   </samp>
+<p>
+   <h3 align="center">
+      <samp> 
+         I'm a Software Engineer 🐾
+      </samp>
+   </h3>
 </p> 
   <h3 align="center"><samp>I :heart: using</samp></h3>
 <p align="center">
@@ -28,14 +30,4 @@
    <br />
    <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkaundal&layout=compact&theme=calm" alt="Top Languages" title="Top Languages">
-</p>
-
-<h3 align="center"><samp>Find Me at :mag:</samp></h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anil-k-736805150/">
-    <img alt="Linkedin" title="Linkedin" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
-  </a>
-  <a href="https://codepen.io/anilkaundal">
-   <img alt="Codepen" title="Codepen" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
-  </a>
 </p>
