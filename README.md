@@ -1,33 +1,13 @@
-<h2 align="center"><samp>Hey, Geeks! :wave:</samp></h2>
-
-<p>
-   <h3 align="center">
-      <samp> 
-         I'm a Software Engineer 🐾
-      </samp>
-   </h3>
-</p> 
-  <h3 align="center"><samp>I :heart: using</samp></h3>
+<h2 align="center">
+    <samp>
+        Hey! I'm Anil :wave: <br />
+        Software Engineer :alien: with a love for creating practical software solutions to everyday challenges.
+    </samp>
+</h2>
+<h3 align="center"><samp>I :white_heart: using :point_down:</samp></h3>
 <p align="center">
-   <img src="https://cdn.svgporn.com/logos/c.svg" title="C" width="35" />
-   <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" title="C++" width="35" />
-   <img src="https://cdn.svgporn.com/logos/python.svg" title="Python" width="35" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" width="45" />
-   <img src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/django.svg" title="Django" width="45" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby" width="35" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" width="35" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" width="35" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="JavaScript" width="35" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJS" width="35"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="35"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="35" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="35" />
-</p>
-
-<h3 align="center"><samp>Stats :chart_with_upwards_trend:</samp></h3>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilkaundal&hide=issues&count_private=true&show_icons=true&theme=calm" alt="Github stats" title="Github Stats">
-   <br />
-   <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilkaundal&layout=compact&theme=calm" alt="Top Languages" title="Top Languages">
+    <img src="https://cdn.svgporn.com/logos/html-5.svg" title="HTML" width="32" /> <img src="https://cdn.svgporn.com/logos/css-3.svg" title="CSS" width="32" />
+    <img src="https://cdn.svgporn.com/logos/javascript.svg" title="JavaScript" width="36" /> <img src="https://cdn.svgporn.com/logos/react.svg" title="React" width="38" />
+    <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" title="C++" width="35" /> <img src="https://global-uploads.webflow.com/5e9b2ad892aec836f32574f1/5f61481f823ad9782aae6848_integration-day.svg" title="MuleSoft" width="40" />
+    <img src="https://cdn.svgporn.com/logos/salesforce.svg" title="Salesforce" width="45" /> <img src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" width="35" />
 </p>
